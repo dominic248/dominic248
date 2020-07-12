@@ -3,8 +3,8 @@
 [![HitCount](http://hits.dwyl.com/dms24081999/dms24081999.svg)](http://hits.dwyl.com/dms24081999/dms24081999)
 
 #### Software Engineer who loves to transform ideas into reality using code. 
-#### I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences.
 #### I'm a Tech enthusiastic person and a self-taught programmer from 2015.
+#### I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences.
 #### I've have worked on many different technologies related to Desktop applications, Websites, Web Applications, IoT and building automation tools for productivity.
 
 #### All Private Projects Info: https://github.com/dms24081999?tab=projects | https://dominic-silveira.web.app/work
