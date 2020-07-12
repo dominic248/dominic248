@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/dms24081999/dms24081999.svg)](http://hits.dwyl.com/dms24081999/dms24081999)
+
 Software Development Student who loves to transform ideas into reality using code | Experience with Django, NodeJS, ReactJS, VueJS, REST API, IoT | 2021 Graduation 
 
 I'm a Tech enthusiastic person and a self-taught programmer from 2015
