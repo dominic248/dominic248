@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Software Development Student who loves to transform ideas into reality using code | Experience with Django, NodeJS, ReactJS, VueJS, REST API, IoT | 2021 Graduation 
+
+I'm a Tech enthusiastic person and a self-taught programmer from 2015
+I've have worked on many different technologies related to Desktop applications, Websites, Web Applications, IoT and building automation tools for productivity
+
+
 <!--
 **dms24081999/dms24081999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
