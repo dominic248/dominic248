@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/dms24081999/dms24081999.svg)](http://hits.dwyl.com/dms24081999/dms24081999)
 
-Software Engineer who loves to transform ideas into reality using code. 
+Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. 
 
 I'm a Tech enthusiastic person and a self-taught programmer from 2015.
 
