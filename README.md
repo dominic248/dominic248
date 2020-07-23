@@ -32,8 +32,9 @@ I've have worked on many different technologies related to Desktop applications,
 > <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 
 ---
-![Dominic's github stats](https://github-stats-delta24.vercel.app/api?username=dms24081999&hide=[%22stars%22]&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Dominic's Top Languages](https://github-stats-delta24.vercel.app/api/top-langs/?username=dms24081999&theme=dark&hide_langs_below=1)
 
+![Dominic's Github Stats](https://github-stats-delta24.vercel.app/api?username=dms24081999&hide=[%22stars%22]&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 <!--
