@@ -3,9 +3,13 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dms24081999&label=Views&color=blue&style=plastic" alt="dms24081999" /> 
   <a href="https://dominic-silveira.web.app">
-    <img src="https://img.shields.io/badge/PortfolioWebsite-dominicsilveira-2648ff?style=flat-square&logo=google-chrome" alt="dms24081999" />
+    <img src="https://img.shields.io/badge/PortfolioWebsite-dominicsilveira-2648ff?style=flat-square&logo=google-chrome" alt="dominic-silveira.web.app" />
+  </a>
+  <a href="https://github.com/dms24081999?tab=projects">
+    <img src="https://img.shields.io/badge/Info-Private%20Projects-green?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAB3RJTUUH5AcdDTMCQ+83KQAAAo1JREFUOMuN1NuLlWUUBvDf++1tYQ6GNo55GKoLmQlnNGbPCB2ICO9UhIIuS5hOVFeJFwpeKxL1NxRIlyIYRURopJbj2EVjznQAD+NhIGFwVGwO+/XiW3tmz1akBS/f+/F963nfZz3PWklLdPf0kRI8jg3YhE5UMIHzsaYyxn4fXpSfFoH11mAJXsMgXkVHgEHGJM7iKxzFlMzoyPACYNfGfqnIsBJ78QGWYgSncTnAOjCAWhx8FPvwVwO0igbYCnyOt3EBh/BNzvlmSilntFUr7szOteEV7MGbWINByVhXT00laFaxHx/jBHbhB9xNKRXoT/TO1PMN3MHf+BZPYSeexXcpuVdpX71W1OwzXAywP5pKuxlH8F6IMiRnUrqLk9iIbRjHUJHL272DJ/FFKGh0Qb3lUY7HsKqhTF2GmzgYQu3C6mriuVDzAo61gMGv+ARrQ1ljI+eaXXEGP2I7XizQHT8P5ZyvezCqYZNjmC2B+pq/T+On8O1AgXVB52pKKZeEFsVmfB/1GoRcL7QwuRqVWFNF0WTah8WSqOETsR4W87lFKDeLjitXxrU0zyOja4F6RyT+W4QYE+jv7Fzf/r/RkMrDK3gZMxgu8A9OoRdbm9R7ZDT908j7E6cL/Ke0wzQ+xTOwYdM8nTncixvMtOAuw248ja9xudEpl7AeO+J5qpCmIukWjuOwsi0ny+lmmXIwfBgM9+F2ZWX7Oqkwh3NKT+7EFlyLdTtzKdddTMmk0pcv4ADeD6ofYUwOSUujJspBegBvRSlOxu3GUUc7XsLrsf85KA9R+nLeI8/31OTyrQ1v4F30BbXmmMZolOBLTDRP7gdM191TkwpytkI5SAdCqCqu4zf8Evvc0vfuA4EoyEWLPCStAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA3LTI5VDEzOjUxOjAyLTA0OjAwPxFcBwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNy0yOVQxMzo1MTowMi0wNDowME5M5LsAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAAElFTkSuQmCC" alt="Private Projects Info" />
   </a>
 </p>
+
  
 <a href="https://twitter.com/delta24doms">
   <img align="left" alt="Dominic's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,16 +24,9 @@
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+<br />
 
-Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. 
-
-I'm a Tech enthusiastic person and a self-taught programmer from 2015.
-
-I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences.
-
-I've have worked on many different technologies related to Desktop applications, Websites, Web Applications, IoT and building automation tools for productivity.
-
-#### All Private Projects Info: https://github.com/dms24081999?tab=projects | https://dominic-silveira.web.app/work
+Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. I'm a Tech enthusiastic person and a self-taught programmer from 2015. I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences. I've have worked on many different technologies related to Desktop applications, Websites, Web Applications, IoT and building automation tools for productivity.
 
 ---
 **Languages:** 
