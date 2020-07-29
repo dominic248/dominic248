@@ -29,6 +29,14 @@
 Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. I'm a Tech enthusiastic person and a self-taught programmer from 2015. I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences. I've have worked on many different technologies related to Desktop applications, Websites, Web Applications, IoT and building automation tools for productivity.
 
 ---
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-stats-delta24.vercel.app/api/top-langs/?username=dms24081999&theme=dark&hide_langs_below=1" alt="Dominic's Top Languages"/>
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-stats-delta24.vercel.app/api?username=dms24081999&hide=[%22stars%22]&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Dominic's Github Stats"/>
+</a>
+
+---
 **Languages:** 
 > <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 
@@ -46,14 +54,6 @@ Software Engineer who loves to transform ideas into reality using code ☕ -> �
 
 **Other:** 
 > <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-
----
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-stats-delta24.vercel.app/api/top-langs/?username=dms24081999&theme=dark&hide_langs_below=1" alt="Dominic's Top Languages"/>
-</a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-stats-delta24.vercel.app/api?username=dms24081999&hide=[%22stars%22]&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Dominic's Github Stats"/>
-</a>
 
 <!--
 **dms24081999/dms24081999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
