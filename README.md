@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hola, I'm [Dominic Silveira!](https://dominic-silveira.web.app) 👋
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dms24081999&label=Views&color=blue&style=plastic" alt="dms24081999" /> 
@@ -24,8 +24,9 @@
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<br />
-
+<br/>
+<br/>
+---
 Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. I'm a Tech enthusiastic person and a self-taught programmer from 2015. I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences. I've have worked on many different technologies related to Desktop applications, Websites, Web Applications, IoT and building automation tools for productivity.
 
 ---
