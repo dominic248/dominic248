@@ -1,6 +1,25 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/dms24081999/dms24081999.svg)](http://hits.dwyl.com/dms24081999/dms24081999)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dms24081999&label=Views&color=blue&style=plastic" alt="dms24081999" /> 
+  <a href="https://dominic-silveira.web.app">
+    <img src="https://img.shields.io/badge/PortfolioWebsite-dominicsilveira-2648ff?style=flat-square&logo=google-chrome" alt="dms24081999" />
+  </a>
+</p>
+ 
+<a href="https://twitter.com/delta24doms">
+  <img align="left" alt="Dominic's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/dms24081999">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/dms24081999">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/dms24081999">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
 
 Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. 
 
@@ -32,10 +51,12 @@ I've have worked on many different technologies related to Desktop applications,
 > <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 
 ---
-![Dominic's Top Languages](https://github-stats-delta24.vercel.app/api/top-langs/?username=dms24081999&theme=dark&hide_langs_below=1)
-
-![Dominic's Github Stats](https://github-stats-delta24.vercel.app/api?username=dms24081999&hide=[%22stars%22]&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-stats-delta24.vercel.app/api/top-langs/?username=dms24081999&theme=dark&hide_langs_below=1" alt="Dominic's Top Languages"/>
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-stats-delta24.vercel.app/api?username=dms24081999&hide=[%22stars%22]&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Dominic's Github Stats"/>
+</a>
 
 <!--
 **dms24081999/dms24081999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
