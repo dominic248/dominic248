@@ -30,10 +30,10 @@
 Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. I'm a Tech enthusiastic person and a self-taught programmer from 2015. I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences. I've have worked on many different technologies related to Desktop applications, Websites, Web Applications, IoT and building automation tools for productivity.
 
 ---
-<a href="https://github.com/iampawan">
+<a href="https://github.com/dms24081999">
   <img align="center" src="https://github-stats-delta24.vercel.app/api/top-langs/?username=dms24081999&theme=dark&hide_langs_below=1" alt="Dominic's Top Languages"/>
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/dms24081999">
  <img align="center" src="https://github-stats-delta24.vercel.app/api?username=dms24081999&hide=[%22stars%22]&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Dominic's Github Stats"/>
 </a>
 
