@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dms24081999&label=Views&color=blue&style=plastic" alt="dms24081999" /> 
-  <a href="https://dominic-silveira.web.app">
+  <a href="https://dominicsilveira.page.link/website">
     <img src="https://img.shields.io/badge/PortfolioWebsite-dominicsilveira-2648ff?style=flat-square&logo=google-chrome&logoColor=white" alt="dominic-silveira.web.app" />
   </a>
   <a href="https://github.com/dms24081999?tab=projects">
@@ -17,16 +17,17 @@ Software Engineer who loves to transform ideas into reality using code ☕ -> �
 ### 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/dms24081999"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dms24081999"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/dms24081999"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://twitter.com/delta24doms"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://discord.com/channels/@me/714428067916808302"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/delta24.spec--ops-Discord-purple?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://dominicsilveira.page.link/linkedin"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dominicsilveira.page.link/github"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://dominicsilveira.page.link/telegram"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://dominicsilveira.page.link/twitter"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://dominicsilveira.page.link/discord"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/delta24.spec--ops-Discord-purple?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-<br/>
-<!-- <p align="left">
+
+<!--<br/>
+<p align="left">
   <a href="https://linkedin.com/in/dms24081999"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dms24081999"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-lightgrey?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://dominicsilveira.page.link/leetcode"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-lightgrey?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p> -->
 
 ---
