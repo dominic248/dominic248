@@ -10,7 +10,11 @@
   </a>
 </p>
 
-## 🙋‍♂️ Connect with me:
+<br/>
+
+Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. I'm a Tech enthusiastic person and a self-taught programmer from 2015. I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences. I've have worked on many different technologies related to Desktop applications, Android Applications Websites, Web Applications, IoT and building automation tools for productivity.
+
+### 🙋‍♂️ Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/dms24081999"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,10 +23,11 @@
   <a href="https://twitter.com/delta24doms"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://discord.com/channels/@me/714428067916808302"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/delta24.spec--ops-Discord-purple?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
 <br/>
-
-Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. I'm a Tech enthusiastic person and a self-taught programmer from 2015. I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences. I've have worked on many different technologies related to Desktop applications, Android Applications Websites, Web Applications, IoT and building automation tools for productivity.
+<!-- <p align="left">
+  <a href="https://linkedin.com/in/dms24081999"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/dms24081999"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-lightgrey?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p> -->
 
 ---
 <a href="https://github.com/dms24081999">
