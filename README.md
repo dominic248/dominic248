@@ -20,8 +20,9 @@ Software Engineer who loves to transform ideas into reality using code â˜• -> ðŸ
   <a href="https://dominicsilveira.page.link/linkedin"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://dominicsilveira.page.link/github"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://dominicsilveira.page.link/telegram"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://dominicsilveira.page.link/discord"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/dms24081999%233007-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://dominicsilveira.page.link/twitter"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://dominicsilveira.page.link/discord"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/delta24.spec--ops-Discord-purple?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
 </p>
 
 <!--<br/>
