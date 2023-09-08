@@ -26,9 +26,11 @@ Software Engineer who loves to transform ideas into reality using code â˜• -> ðŸ
 </p> -->
 
 ---
+<!--
 <a href="https://github.com/dms24081999">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dms24081999&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Dominic's Github Stats"/>
 </a>
+ -->
 <a href="https://github.com/dms24081999">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dms24081999&layout=compact&theme=dark&hide_langs_below=1" alt="Dominic's Top Languages"/>
 </a>
