@@ -9,7 +9,7 @@
 
 <br/>
 
-Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. I'm a Tech enthusiastic person and a self-taught programmer from 2015. I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences. I've have worked on many different technologies related to Desktop applications, Android Applications Websites, Web Applications, IoT and building automation tools for productivity.
+Software Engineer who loves to transform ideas into reality using code ☕ -> 👨🏻‍💻 ->💻. I'm a Tech enthusiastic person and a self-taught programmer. I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences. I've have worked on many different technologies related to Desktop applications, Android Applications Websites, Web Applications, IoT and building automation tools for productivity.
 
 ### 🙋‍♂️ Connect with me:
 
