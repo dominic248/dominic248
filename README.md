@@ -17,9 +17,8 @@ Software Engineer who loves to transform ideas into reality using code ☕ -> �
 ### 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://dominicsilveira.page.link/linkedin"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dominicsilveira.page.link/github"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://dominicsilveira.page.link/discord"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/dms24081999%233007-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dominic-silveira"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/392889048919834624"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/dms24081999%233007-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <!--<br/>
