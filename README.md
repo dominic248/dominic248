@@ -1,4 +1,7 @@
-## Hola, I'm [Dominic Silveira!](https://dominic-silveira.web.app) 👋
+## Hello, I'm [Dominic Silveira!](https://dominic-silveira.web.app) 👋
+
+### Other Accounts:
+- Charles Stanley, UK - [@dms24081999-charlesstanley](https://github.com/dms24081999-charlesstanley)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dms24081999&label=Views&color=blue&style=plastic" alt="dms24081999" /> 
