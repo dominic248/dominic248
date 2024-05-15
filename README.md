@@ -4,7 +4,7 @@
 - Charles Stanley, UK - [@dms24081999-charlesstanley](https://github.com/dms24081999-charlesstanley)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dms24081999&label=Views&color=blue&style=plastic" alt="dms24081999" /> 
+  <img src="https://komarev.com/ghpvc/?username=dominic-m-silveira&label=Views&color=blue&style=plastic" alt="dominic-m-silveira" /> 
   <a href="https://www.linkedin.com/in/dominic-silveira/details/experience/">
     <img src="https://img.shields.io/badge/-Experience-red?style=flat-square&logo=linkedin&logoColor=white" alt="Experience Info" />
   </a>
@@ -20,24 +20,24 @@ Software Engineer who loves to transform ideas into reality using code ☕ -> �
 ### 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dominic-silveira"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dominic-m-silveira"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/392889048919834624"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/dms24081999%233007-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <!--<br/>
 <p align="left">
-  <a href="https://linkedin.com/in/dms24081999"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/dominic-m-silveira"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="https://dominicsilveira.page.link/leetcode"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-lightgrey?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p> -->
 
 ---
 <!--
-<a href="https://github.com/dms24081999">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dms24081999&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Dominic's Github Stats"/>
+<a href="https://github.com/dominic-m-silveira">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominic-m-silveira&show_icons=true&title_color=2f80ed&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Dominic's Github Stats"/>
 </a>
  -->
-<a href="https://github.com/dms24081999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dms24081999&layout=compact&theme=dark&hide_langs_below=1" alt="Dominic's Top Languages"/>
+<a href="https://github.com/dominic-m-silveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominic-m-silveira&layout=compact&theme=dark&hide_langs_below=1" alt="Dominic's Top Languages"/>
 </a>
 
 
