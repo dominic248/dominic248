@@ -4,7 +4,7 @@
 - Charles Stanley, UK - [@dms24081999-charlesstanley](https://github.com/dms24081999-charlesstanley)
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dominic-m-silveira&label=Views&color=blue&style=plastic" alt="dominic-m-silveira" /> 
+  <!--<img src="https://komarev.com/ghpvc/?username=dominic-m-silveira&label=Views&color=blue&style=plastic" alt="dominic-m-silveira" /> -->
   <a href="https://www.linkedin.com/in/dominic-silveira/details/experience/">
     <img src="https://img.shields.io/badge/-Experience-red?style=flat-square&logo=linkedin&logoColor=white" alt="Experience Info" />
   </a>
