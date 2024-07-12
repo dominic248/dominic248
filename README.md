@@ -40,7 +40,7 @@ Software Engineer who loves to transform ideas into reality using code ☕ -> �
 
 
 <!--
-**dms24081999/dms24081999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
