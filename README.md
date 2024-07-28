@@ -1,11 +1,11 @@
-## Hello, I'm [Dominic Silveira!](https://dominic-silveira.web.app) 👋
+## Hello, I'm Dominic!👋
 
 <p align="left"> 
   <!--<img src="https://komarev.com/ghpvc/?username=dominic-m-silveira&label=Views&color=blue&style=plastic" alt="dominic-m-silveira" /> -->
-  <a href="https://www.linkedin.com/in/dominic-silveira/details/experience/">
+  <a href="https://www.linkedin.com/in/dominic-m-silveira/details/experience/">
     <img src="https://img.shields.io/badge/-Experience-red?style=flat-square&logo=linkedin&logoColor=white" alt="Experience Info" />
   </a>
-  <a href="https://www.linkedin.com/in/dominic-silveira/details/projects">
+  <a href="https://www.linkedin.com/in/dominic-m-silveira/details/projects">
     <img src="https://img.shields.io/badge/-Private%20Projects-%237289DA?style=flat-square&logo=linkedin&logoColor=white" alt="Private Projects Info" />
   </a>
 </p>
