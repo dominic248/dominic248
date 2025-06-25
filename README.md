@@ -20,7 +20,7 @@ Software Engineer who loves to transform ideas into reality using code â˜• -> ðŸ
   <a href="https://www.linkedin.com/in/dominic-m-silveira"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/392889048919834624"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/ghostlead1999-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
+<!-- C6VUZKL5JCTBQGRAV766EP7JPTGHAVPT -->
 <!--<br/>
 <p align="left">
   <a href="https://linkedin.com/in/dominic-m-silveira"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
