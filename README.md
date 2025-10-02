@@ -23,8 +23,6 @@ Software Engineer who loves to transform ideas into reality using code â˜• -> ðŸ
 
 ---
 
-<!-- C6VUZKL5JCTBQGRAV766EP7JPTGHAVPT -->
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dominic248/dominic248@github)](https://gitads.dev/v1/ad-track?source=dominic248/dominic248@github)
 
 <!--<br/>
 <p align="left">
